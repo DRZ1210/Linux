@@ -1,4 +1,5 @@
 #!/bin/bash
+# 获取系统中用户信息
 
 time=`date +"%F %T"`
 
