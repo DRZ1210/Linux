@@ -1,4 +1,5 @@
-#!/bin/bash 
+#!/bin/bash
+# this is my first shell programming
 #get the sum of all prime numbers less than 1000
 
 max_n=1000
