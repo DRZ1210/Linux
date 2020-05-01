@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/bash 
+# 获取CPU信息
 
 time=`date +"%F %T"`
 cpuLoad=(`cat /proc/loadavg | cut -d " " -f 1-3`)
